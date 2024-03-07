@@ -53,3 +53,5 @@ This application makes use of many third-party javascript packages as well as py
 ---
 
 This project is still under continuous development and not all features may work as expected. 
+
+**Pull requests are not actively monitored or reviewed.**
