@@ -1,0 +1,12 @@
+name: hfi_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.4
+  - flask=2.3.2
+  - flask-cors=4.0.0
+  - python-dotenv=1.0.0
+  - pandas=2.1.1
+  - scipy=1.11.2
+  - matplotlib=3.8.0
+  - openpyxl=3.1.2

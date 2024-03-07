@@ -1,0 +1,21 @@
+/* html,
+body,
+#__next,
+main {
+  
+  max-height: 100vh;
+
+} */
+
+#__next {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+main {
+  flex: 1;
+  min-height: 0;
+  height: 100%;
+  margin-bottom: 1em;
+}

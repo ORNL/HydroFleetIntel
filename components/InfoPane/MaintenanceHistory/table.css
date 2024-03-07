@@ -1,0 +1,29 @@
+:root {
+    --table-border-color: grey;
+  }
+  
+  table {
+    border-bottom: 1px solid var(--table-border-color);
+    border-right: 1px solid var(--table-border-color);
+  }
+  
+  table th,
+  table td {
+    outline: 1px solid var(--table-border-color);
+  }
+  
+  th {
+    position: sticky;
+    top: 0;
+    background-color: #fff !important;
+  }
+  
+  .table,
+  .table th {
+    box-shadow: inset 1px 1px #000, 0 1px #000;
+  }
+  
+
+  thead > tr {
+    padding-top: 5px;
+  }

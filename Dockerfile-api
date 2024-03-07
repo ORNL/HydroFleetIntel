@@ -1,0 +1,16 @@
+FROM continuumio/miniconda3
+WORKDIR /app
+
+COPY hfi_env.yml .
+RUN conda env create -n hfi_env -f hfi_env.yml
+
+#This adds the python environment activation code to the container's bash profile so when working with
+#the container in interactive mode, it will automatically start in the hfi_env python environment.
+RUN echo "conda activate hfi_env" >> ~/.bashrc
+
+COPY ./api ./api/
+COPY run.py .
+
+EXPOSE 5000
+
+ENTRYPOINT ["conda", "run", "--no-capture-output", "-n", "hfi_env", "flask", "run", "--host=0.0.0.0"]

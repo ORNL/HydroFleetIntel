@@ -1,0 +1,25 @@
+services:
+  hfi-backend:
+    container_name: hfi-backend
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile-api
+    image: hfi-backend
+    environment:
+      - FLASK_ENV=development
+      - FLASK_APP=run.py
+    tty: true
+  hfi-frontend:
+    container_name: hfi-frontend
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile-client
+    image: hfi-frontend
+    environment:
+      - API_HOST=hfi-backend
+      - API_PORT=5000
+    ports: 
+      - "3000:3000"
+    tty: true

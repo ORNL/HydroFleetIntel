@@ -1,0 +1,11 @@
+.DS_Store
+.eslintrc.json
+.git
+.gitignore
+.next/
+.prettierrc.json
+.vscode/
+api/__pycache__/
+Figures_MockUps_ect/
+node_modules/
+__pycache__/

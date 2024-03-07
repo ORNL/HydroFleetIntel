@@ -1,0 +1,50 @@
+"Unique_ID","Part_ID","Part_name","Catalog_link_sheet","Catalog_link_column","Catalog_link_row","Catalog_name","Data_source_link","Taxonomic_relation","Type","Units"
+"4.1.3-1","4.1.3","4.1.3 Generator",8,3,12,"Generator efficiency",NA,"Direct","data","%"
+"4.1.3-2","4.1.3","4.1.3 Generator",8,3,16,"Generator Current",NA,"Direct","data","A"
+"4.1.3-3","4.1.3","4.1.3 Generator",8,3,17,"Generator MVARs",NA,"Direct","data","MVAR"
+"4.1.3-4","4.1.3","4.1.3 Generator",8,3,18,"Generating MW output",NA,"Direct","data","MW"
+"4.1.3-5","4.1.3","4.1.3 Generator",8,3,25,"Generator RPM",NA,"Direct","data","RPM"
+"4.1.3-6","4.1.3","4.1.3 Generator",8,3,26,"Generator MVARS",NA,"Direct","data","MVAR"
+"4.1.3-7","4.1.3","4.1.3 Generator",8,3,27,"Generator MW",NA,"Direct","data","MW"
+"4.1.3-8","4.1.3","4.1.3 Generator",8,3,28,"Generator A Current",NA,"Direct","data","A"
+"4.1.3-9","4.1.3","4.1.3 Generator",8,3,29,"Generator B Current",NA,"Direct","data","A"
+"4.1.3-10","4.1.3","4.1.3 Generator",8,3,30,"Generator C Current",NA,"Direct","data","A"
+"4.1.3-11","4.1.3","4.1.3 Generator",8,3,31,"Generator AB Voltage",NA,"Direct","data","V"
+"4.1.3-12","4.1.3","4.1.3 Generator",8,3,32,"Generator BC Voltage",NA,"Direct","data","V"
+"4.1.3-13","4.1.3","4.1.3 Generator",8,3,33,"Generator CA Voltage",NA,"Direct","data","V"
+"4.1.3-22","4.1.3","4.1.3 Generator",8,3,57,"Generator - Excitator Winding  (Multiple points)",NA,"Direct","data","°F"
+"4.1.3-23","4.1.3","4.1.3 Generator",8,3,58,"Generator - Excitator Air (Multiple points)",NA,"Direct","data","°F"
+"4.1.3-24","4.1.3","4.1.3 Generator",8,3,59,"Generator air gap temperature",NA,"Direct","data","°F"
+"4.1.3-26","4.1.3","4.1.3 Generator",6,3,11,"Manufacturer",NA,"Direct","data",NA
+"4.1.3-27","4.1.3","4.1.3 Generator",6,3,12,"Type (vertical, horizontal)",NA,"Direct","data",NA
+"4.1.3-28","4.1.3","4.1.3 Generator",6,3,13,"Stator Cooling Medium",NA,"Direct","data",NA
+"4.1.3-29","4.1.3","4.1.3 Generator",6,3,14,"Rating - Nameplate (MW)",NA,"Direct","data","MW"
+"4.1.3-30","4.1.3","4.1.3 Generator",6,3,15,"Rating - Net Dependable Capacity Nameplate (MW)",NA,"Direct","data","MW"
+"4.1.3-31","4.1.3","4.1.3 Generator",6,3,16,"Rating",NA,"Direct","data","MVA"
+"4.1.3-32","4.1.3","4.1.3 Generator",6,3,17,"Power Factor",NA,"Direct","data",NA
+"4.1.3.6-40","4.1.3","4.1.3 Generator",6,3,25,"Generator RPM",NA,"Direct","data","RPM"
+"4.1.3.5-41","4.1.3","4.1.3 Generator",6,3,26,"Excitation Type - Main  (Solid State, Rotating)",NA,"Direct","data",NA
+"4.1.3.5-42","4.1.3","4.1.3 Generator",6,3,27,"Excitation Controls",NA,"Direct","data",NA
+"4.1.3.1-43","4.1.3","4.1.3 Generator",6,3,28,"Motor Rating - Pump Units Only",NA,"Direct","data",NA
+"4.1.3.6-44","4.1.3","4.1.3 Generator",6,3,29,"Generator Capability Diagram Available ?",NA,"Direct","data",NA
+"4.1.3-49","4.1.3","4.1.3 Generator",6,3,34,"Neutral Transformer",NA,"Direct","data",NA
+"4.1.3.1-18","4.1.3.1","4.1.3.1 Stator",8,3,53,"Generator - Stator Winding (Multiple points)",NA,"Underneath","data","°F"
+"4.1.3.1-20","4.1.3.1","4.1.3.1 Stator",8,3,55,"Generator - Stator Air Coolers(Multiple points)",NA,"Underneath","data","°F"
+"4.1.3.1-21","4.1.3.1","4.1.3.1 Stator",8,3,56,"Generator - Stator Air Coolers(Multiple points)",NA,"Underneath","data","°F"
+"4.1.3-33","4.1.3.1","4.1.3.1 Stator",6,3,18,"Voltage - Stator",NA,"Underneath","data","kV"
+"4.1.3-34","4.1.3.1","4.1.3.1 Stator",6,3,19,"Stator Winding Insulation System - Material",NA,"Underneath","data",NA
+"4.1.3-35","4.1.3.1","4.1.3.1 Stator",6,3,20,"Stator Winding Insulation System - Grade",NA,"Underneath","data",NA
+"4.1.3-36","4.1.3.1","4.1.3.1 Stator",6,3,21,"Stator Winding - Installation date",NA,"Underneath","data",NA
+"4.1.3.2-25","4.1.3.2","4.1.3.2 Rotor",8,3,60,"Generator - Rotor Winding Temperature",NA,"Underneath","data","°F"
+"4.1.3-37","4.1.3.2","4.1.3.2 Rotor",6,3,22,"Rotor Winding Insulation System - Material",NA,"Underneath","data",NA
+"4.1.3-38","4.1.3.2","4.1.3.2 Rotor",6,3,23,"Rotor Winding Insulation System - Grade",NA,"Underneath","data",NA
+"4.1.3.6-39","4.1.3.2","4.1.3.2 Rotor",6,3,24,"Rotor Winding Installation Date",NA,"Underneath","data","Date"
+"4.1.3.1-45","4.1.3.4","4.1.3.4 Thrust Bearing",6,3,30,"Thrust Bearing Location",NA,"Underneath","data",NA
+"4.1.3.1-46","4.1.3.4","4.1.3.4 Thrust Bearing",6,3,31,"Thrust bearing material",NA,"Underneath","data",NA
+"4.1.3.5-16","4.1.3.5","4.1.3.5 Guide Bearings",8,3,51,"Guide bearing oil temperature",NA,"Underneath","data","°F"
+"4.1.3.5-17","4.1.3.5","4.1.3.5 Guide Bearings",8,3,52,"Guide bearing segment temperature (Multiple points)",NA,"Underneath","data","°F"
+"4.1.3-47","4.1.3.5","4.1.3.5 Guide Bearings",6,3,32,"Guide Bearing material",NA,"Underneath","data",NA
+"4.1.3-48","4.1.3.5","4.1.3.5 Guide Bearings",6,3,33,"Guide Bearing Number and Location",NA,"Underneath","data",NA
+"4.1.3.6-14","4.1.3.6","4.1.3.6 Ventilation & Cooling system",8,3,49,"Generator cooling water inlet temperature - Water Cooled Stator Winding Only",NA,"Underneath","data","°F"
+"4.1.3.6-15","4.1.3.6","4.1.3.6 Ventilation & Cooling system",8,3,50,"Generator cooling water outlet temperature - - Water Cooled Stator Winding Only",NA,"Underneath","data","°F"
+"4.1.3.6-19","4.1.3.6","4.1.3.6 Ventilation & Cooling system",8,3,54,"Generator Cooling Water Flow",NA,"Underneath","data","cfm"

@@ -1,0 +1,224 @@
+﻿Row_num,Level 0,Level 1,Level 2,Level 3,Level 4,Level 5,Part_Level,Part_ID,Part_Name
+1,Hydropower Facility,#N/A,#N/A,#N/A,#N/A,#N/A,0,0,Hydropower Facility
+2,Hydropower Facility,1. Headwater/Reservoir,#N/A,#N/A,#N/A,#N/A,1,1,1. Headwater/Reservoir
+3,Hydropower Facility,1. Headwater/Reservoir,1.1 Siltation and Dredging Devices,#N/A,#N/A,#N/A,2,1.1,1.1 Siltation and Dredging Devices
+4,Hydropower Facility,1. Headwater/Reservoir,1.2 Line Diffusers,#N/A,#N/A,#N/A,2,1.2,1.2 Line Diffusers
+5,Hydropower Facility,1. Headwater/Reservoir,1.3 Surface Water Pumps,#N/A,#N/A,#N/A,2,1.3,1.3 Surface Water Pumps
+6,Hydropower Facility,2. Dam/Weir,#N/A,#N/A,#N/A,#N/A,1,2,2. Dam/Weir
+7,Hydropower Facility,2. Dam/Weir,2.1 Spillways/Weirs,#N/A,#N/A,#N/A,2,2.1,2.1 Spillways/Weirs
+8,Hydropower Facility,2. Dam/Weir,2.1 Spillways/Weirs,2.1.1 Concrete Structure,#N/A,#N/A,3,2.1.1,2.1.1 Concrete Structure
+9,Hydropower Facility,2. Dam/Weir,2.1 Spillways/Weirs,2.1.1 Concrete Structure,2.1.1.1 Operation Deck,#N/A,4,2.1.1.1,2.1.1.1 Operation Deck
+10,Hydropower Facility,2. Dam/Weir,2.1 Spillways/Weirs,2.1.1 Concrete Structure,2.1.1.2 Spillway Apron,#N/A,4,2.1.1.2,2.1.1.2 Spillway Apron
+11,Hydropower Facility,2. Dam/Weir,2.1 Spillways/Weirs,2.1.1 Concrete Structure,2.1.1.3 Spillway Piers,#N/A,4,2.1.1.1,2.1.1.3 Spillway Piers
+12,Hydropower Facility,2. Dam/Weir,2.1 Spillways/Weirs,2.1.1 Concrete Structure,2.1.1.4 Uncontrolled Spillway,#N/A,4,2.1.1.1,2.1.1.4 Uncontrolled Spillway
+13,Hydropower Facility,2. Dam/Weir,2.1 Spillways/Weirs,2.1.2 Spillway Gates,#N/A,#N/A,3,2.1.2,2.1.2 Spillway Gates
+14,Hydropower Facility,2. Dam/Weir,2.1 Spillways/Weirs,2.1.3 Gate Hoist,#N/A,#N/A,3,2.1.3,2.1.3 Gate Hoist
+15,Hydropower Facility,2. Dam/Weir,2.1 Spillways/Weirs,2.1.4 Flashboard,#N/A,#N/A,3,2.1.4,2.1.4 Flashboard
+16,Hydropower Facility,2. Dam/Weir,2.1 Spillways/Weirs,2.1.5 Stoplogs/Bulkhead Gates,#N/A,#N/A,3,2.1.5,2.1.5 Stoplogs/Bulkhead Gates
+17,Hydropower Facility,2. Dam/Weir,2.1 Spillways/Weirs,2.1.6 Spillway Caision,#N/A,#N/A,3,2.1.6,2.1.6 Spillway Caision
+18,Hydropower Facility,2. Dam/Weir,2.2 Sluiceways/Low level Outlets,#N/A,#N/A,#N/A,2,2.2,2.2 Sluiceways/Low level Outlets
+19,Hydropower Facility,2. Dam/Weir,2.2 Sluiceways/Low level Outlets,2.2.1 Sluiceway Gates,#N/A,#N/A,3,2.2.1,2.2.1 Sluiceway Gates
+20,Hydropower Facility,2. Dam/Weir,2.2 Sluiceways/Low level Outlets,2.2.2 Gate Operating Equipment,#N/A,#N/A,3,2.2.2,2.2.2 Gate Operating Equipment
+21,Hydropower Facility,2. Dam/Weir,2.2 Sluiceways/Low level Outlets,2.2.3 Trash Racks,#N/A,#N/A,3,2.2.3,2.2.3 Trash Racks
+22,Hydropower Facility,2. Dam/Weir,2.2 Sluiceways/Low level Outlets,2.2.4 Inlet Structure,#N/A,#N/A,3,2.2.4,2.2.4 Inlet Structure
+23,Hydropower Facility,2. Dam/Weir,2.2 Sluiceways/Low level Outlets,2.2.5 Outlet Structure,#N/A,#N/A,3,2.2.5,2.2.5 Outlet Structure
+24,Hydropower Facility,2. Dam/Weir,2.3 Non-Overflow Dams,#N/A,#N/A,#N/A,2,2.3,2.3 Non-Overflow Dams
+25,Hydropower Facility,2. Dam/Weir,2.3 Non-Overflow Dams,2.3.1 Main Dam,#N/A,#N/A,3,2.3.1,2.3.1 Main Dam
+26,Hydropower Facility,2. Dam/Weir,2.3 Non-Overflow Dams,2.3.2 Embankment,#N/A,#N/A,3,2.3.2,2.3.2 Embankment
+27,Hydropower Facility,2. Dam/Weir,2.3 Non-Overflow Dams,2.3.3 Retaining Walls,#N/A,#N/A,3,2.3.3,2.3.3 Retaining Walls
+28,Hydropower Facility,2. Dam/Weir,2.3 Non-Overflow Dams,2.3.4 Drainage Galleries,#N/A,#N/A,3,2.3.4,2.3.4 Drainage Galleries
+29,Hydropower Facility,2. Dam/Weir,2.4 Fish Passage,#N/A,#N/A,#N/A,2,2.4,2.4 Fish Passage
+30,Hydropower Facility,3. Water Conveyance,#N/A,#N/A,#N/A,#N/A,1,3,3. Water Conveyance
+31,Hydropower Facility,3. Water Conveyance,3.1 Intakes,#N/A,#N/A,#N/A,2,3.1,3.1 Intakes
+32,Hydropower Facility,3. Water Conveyance,3.1 Intakes,3.1.1 Intake Structure/Construction,#N/A,#N/A,3,3.1.1,3.1.1 Intake Structure/Construction
+33,Hydropower Facility,3. Water Conveyance,3.1 Intakes,3.1.2 Intake Gates,#N/A,#N/A,3,3.1.2,3.1.2 Intake Gates
+34,Hydropower Facility,3. Water Conveyance,3.1 Intakes,3.1.3 Stoplogs,#N/A,#N/A,3,3.1.3,3.1.3 Stoplogs
+35,Hydropower Facility,3. Water Conveyance,3.1 Intakes,3.1.4 Bulkhead Gate,#N/A,#N/A,3,3.1.4,3.1.4 Bulkhead Gate
+36,Hydropower Facility,3. Water Conveyance,3.1 Intakes,3.1.5 Gate Hoist and Gantry Crane,#N/A,#N/A,3,3.1.5,3.1.5 Gate Hoist and Gantry Crane
+37,Hydropower Facility,3. Water Conveyance,3.1 Intakes,3.1.6 Air Vent and water filling valve,#N/A,#N/A,3,3.1.6,3.1.6 Air Vent and water filling valve
+38,Hydropower Facility,3. Water Conveyance,3.2 Trash Racks,#N/A,#N/A,#N/A,2,3.2,3.2 Trash Racks
+39,Hydropower Facility,3. Water Conveyance,3.2 Trash Racks,3.2.1 Trash Rack Structure,#N/A,#N/A,3,3.2.1,3.2.1 Trash Rack Structure
+40,Hydropower Facility,3. Water Conveyance,3.2 Trash Racks,3.2.2 Cleaning Devices,#N/A,#N/A,3,3.2.2,3.2.2 Cleaning Devices
+41,Hydropower Facility,3. Water Conveyance,3.3 Penstocks/Tunnels,#N/A,#N/A,#N/A,2,3.3,3.3 Penstocks/Tunnels
+42,Hydropower Facility,3. Water Conveyance,3.3 Penstocks/Tunnels,3.3.1 Linings/Penstock Structure,#N/A,#N/A,3,3.3.1,3.3.1 Linings/Penstock Structure
+43,Hydropower Facility,3. Water Conveyance,3.3 Penstocks/Tunnels,3.3.2 Surge Tanks,#N/A,#N/A,3,3.3.2,3.3.2 Surge Tanks
+44,Hydropower Facility,3. Water Conveyance,3.3 Penstocks/Tunnels,3.3.3 Air Chambers,#N/A,#N/A,3,3.3.3,3.3.3 Air Chambers
+45,Hydropower Facility,3. Water Conveyance,3.3 Penstocks/Tunnels,3.3.4 Pressure Relief Valves,#N/A,#N/A,3,3.3.4,3.3.4 Pressure Relief Valves
+46,Hydropower Facility,3. Water Conveyance,3.3 Penstocks/Tunnels,3.3.5 Flow/Pressure Regulating Valves,#N/A,#N/A,3,3.3.5,3.3.5 Flow/Pressure Regulating Valves
+47,Hydropower Facility,3. Water Conveyance,3.3 Penstocks/Tunnels,3.3.6 Foundation & Supporting,#N/A,#N/A,3,3.3.6,3.3.6 Foundation & Supporting
+48,Hydropower Facility,3. Water Conveyance,3.3 Penstocks/Tunnels,3.3.7 Joints/Couplings,#N/A,#N/A,3,3.3.7,3.3.7 Joints/Couplings
+49,Hydropower Facility,3. Water Conveyance,3.3 Penstocks/Tunnels,3.3.8 Bifurcations,#N/A,#N/A,3,3.3.8,3.3.8 Bifurcations
+50,Hydropower Facility,3. Water Conveyance,3.3 Penstocks/Tunnels,3.3.9 Air Vent & other Auxiliaries,#N/A,#N/A,3,3.3.9,3.3.9 Air Vent & other Auxiliaries
+51,Hydropower Facility,3. Water Conveyance,3.4 Flumes/Open Channels,#N/A,#N/A,#N/A,2,3.4,3.4 Flumes/Open Channels
+52,Hydropower Facility,3. Water Conveyance,3.4 Flumes/Open Channels,3.4.1 Flume,#N/A,#N/A,3,3.4.1,3.4.1 Flume
+53,Hydropower Facility,3. Water Conveyance,3.4 Flumes/Open Channels,3.4.2 Open Channel,#N/A,#N/A,3,3.4.2,3.4.2 Open Channel
+54,Hydropower Facility,3. Water Conveyance,3.4 Flumes/Open Channels,3.4.3 Forebay Structure,#N/A,#N/A,3,3.4.3,3.4.3 Forebay Structure
+55,Hydropower Facility,3. Water Conveyance,3.4 Flumes/Open Channels,3.4.4 Desiliting Chamber,#N/A,#N/A,3,3.4.4,3.4.4 Desiliting Chamber
+56,Hydropower Facility,3. Water Conveyance,3.5 Emergency Closure Gates/Valves,#N/A,#N/A,#N/A,2,3.5,3.5 Emergency Closure Gates/Valves
+57,Hydropower Facility,3. Water Conveyance,3.5 Emergency Closure Gates/Valves,3.5.1 Closure Valves/Gates,#N/A,#N/A,3,3.5.1,3.5.1 Closure Valves/Gates
+58,Hydropower Facility,3. Water Conveyance,3.5 Emergency Closure Gates/Valves,3.5.1 Closure Valves/Gates,3.5.1.1 Butterfly Valve,#N/A,4,3.5.1.1,3.5.1.1 Butterfly Valve
+59,Hydropower Facility,3. Water Conveyance,3.5 Emergency Closure Gates/Valves,3.5.1 Closure Valves/Gates,3.5.1.2 Spherical Valve,#N/A,4,3.5.1.2,3.5.1.2 Spherical Valve
+60,Hydropower Facility,3. Water Conveyance,3.5 Emergency Closure Gates/Valves,3.5.1 Closure Valves/Gates,3.5.1.3 Cone (Plug) Valve,#N/A,4,3.5.1.3,3.5.1.3 Cone (Plug) Valve
+61,Hydropower Facility,3. Water Conveyance,3.5 Emergency Closure Gates/Valves,3.5.1 Closure Valves/Gates,3.5.1.4 Roller-mounted Gate,#N/A,4,3.5.1.4,3.5.1.4 Roller-mounted Gate
+62,Hydropower Facility,3. Water Conveyance,3.5 Emergency Closure Gates/Valves,3.5.1 Closure Valves/Gates,3.5.1.5 Wheel-mounted Gate,#N/A,4,3.5.1.5,3.5.1.5 Wheel-mounted Gate
+63,Hydropower Facility,3. Water Conveyance,3.5 Emergency Closure Gates/Valves,3.5.1 Closure Valves/Gates,3.5.1.6 Ring Follower Gates,#N/A,4,3.5.1.6,3.5.1.6 Ring Follower Gates
+64,Hydropower Facility,3. Water Conveyance,3.5 Emergency Closure Gates/Valves,3.5.1 Closure Valves/Gates,3.5.1.7 Ring-seal Gate,#N/A,4,3.5.1.7,3.5.1.7 Ring-seal Gate
+65,Hydropower Facility,3. Water Conveyance,3.5 Emergency Closure Gates/Valves,3.5.1 Closure Valves/Gates,3.5.1.8 Paradox Gate,#N/A,4,3.5.1.8,3.5.1.8 Paradox Gate
+66,Hydropower Facility,3. Water Conveyance,3.5 Emergency Closure Gates/Valves,3.5.1 Closure Valves/Gates,3.5.1.9 Cylinder Gate,#N/A,4,3.5.1.9,3.5.1.9 Cylinder Gate
+67,Hydropower Facility,3. Water Conveyance,3.5 Emergency Closure Gates/Valves,3.5.2 Hoist,#N/A,#N/A,3,3.5.2,3.5.2 Hoist
+68,Hydropower Facility,3. Water Conveyance,3.5 Emergency Closure Gates/Valves,3.5.2 Hoist,3.5.2.1 Hydraulic Hoist,#N/A,4,3.5.2.1,3.5.2.1 Hydraulic Hoist
+69,Hydropower Facility,3. Water Conveyance,3.5 Emergency Closure Gates/Valves,3.5.2 Hoist,3.5.2.2 Electric-Driven Mechanical Hoist,#N/A,4,3.5.2.2,3.5.2.2 Electric-Driven Mechanical Hoist
+70,Hydropower Facility,3. Water Conveyance,3.6 Draft Tube Gates,#N/A,#N/A,#N/A,2,3.6,3.6 Draft Tube Gates
+71,Hydropower Facility,4. Powerhouse,#N/A,#N/A,#N/A,#N/A,1,4,4. Powerhouse
+72,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,#N/A,#N/A,#N/A,2,4.1,4.1 Power Train Equipment
+74,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,#N/A,#N/A,3,4.1.1,4.1.1 Turbine
+75,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.1 Francis Turbine,#N/A,4,4.1.1.1,4.1.1.1 Francis Turbine
+76,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.1 Francis Turbine,4.1.1.1.1 Spiral/Scroll Case,5,4.1.1.1.1,4.1.1.1.1 Spiral/Scroll Case
+77,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.1 Francis Turbine,4.1.1.1.2 Stay Vanes,5,4.1.1.1.2,4.1.1.1.2 Stay Vanes
+78,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.1 Francis Turbine,4.1.1.1.3 Stay Ring,5,4.1.1.1.3,4.1.1.1.3 Stay Ring
+79,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.1 Francis Turbine,4.1.1.1.4 Wicket Gates,5,4.1.1.1.4,4.1.1.1.4 Wicket Gates
+80,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.1 Francis Turbine,4.1.1.1.5 Runner Blades,5,4.1.1.1.5,4.1.1.1.5 Runner Blades
+81,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.1 Francis Turbine,4.1.1.1.6 Runner Crown,5,4.1.1.1.6,4.1.1.1.6 Runner Crown
+82,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.1 Francis Turbine,4.1.1.1.7 Runner Cone,5,4.1.1.1.7,4.1.1.1.7 Runner Cone
+83,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.1 Francis Turbine,4.1.1.1.8 Runner Band,5,4.1.1.1.8,4.1.1.1.8 Runner Band
+84,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.1 Francis Turbine,4.1.1.1.9 Draft Tube,5,4.1.1.1.9,4.1.1.1.9 Draft Tube
+85,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.1 Francis Turbine,4.1.1.1.10 Main Shaft,5,4.1.1.1.10,4.1.1.1.10 Main Shaft
+86,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.1 Francis Turbine,4.1.1.1.11 Head Cover,5,4.1.1.1.11,4.1.1.1.11 Head Cover
+87,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.1 Francis Turbine,4.1.1.1.12 Guide Bearing,5,4.1.1.1.12,4.1.1.1.12 Guide Bearing
+88,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.1 Francis Turbine,4.1.1.1.13 Mechanical Sealing,5,4.1.1.1.13,4.1.1.1.13 Mechanical Sealing
+89,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.1 Francis Turbine,4.1.1.1.14 Air Admission Devices,5,4.1.1.1.14,4.1.1.1.14 Air Admission Devices
+90,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.2 Propeller/Kaplan Turbine,#N/A,4,4.1.1.2,4.1.1.2 Propeller/Kaplan Turbine
+91,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.2 Propeller/Kaplan Turbine,4.1.1.2.1 Spiral Case,5,4.1.1.2.1,4.1.1.2.1 Spiral Case
+92,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.2 Propeller/Kaplan Turbine,4.1.1.2.2 Stay Vanes,5,4.1.1.2.2,4.1.1.2.2 Stay Vanes
+93,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.2 Propeller/Kaplan Turbine,4.1.1.2.3 Stay ring,5,4.1.1.2.3,4.1.1.2.3 Stay ring
+94,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.2 Propeller/Kaplan Turbine,4.1.1.2.4 Wicket Gates,5,4.1.1.2.4,4.1.1.2.4 Wicket Gates
+95,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.2 Propeller/Kaplan Turbine,4.1.1.2.5 Runner Blades,5,4.1.1.2.5,4.1.1.2.5 Runner Blades
+96,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.2 Propeller/Kaplan Turbine,4.1.1.2.6 Runner Hub without/with Blade Trunnion,5,4.1.1.2.6,4.1.1.2.6 Runner Hub without/with Blade Trunnion
+97,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.2 Propeller/Kaplan Turbine,4.1.1.2.7 Runner Cone,5,4.1.1.2.7,4.1.1.2.7 Runner Cone
+98,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.2 Propeller/Kaplan Turbine,4.1.1.2.8 Discharge/Throat Ring,5,4.1.1.2.8,4.1.1.2.8 Discharge/Throat Ring
+99,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.2 Propeller/Kaplan Turbine,4.1.1.2.9 Draft Tube,5,4.1.1.2.9,4.1.1.2.9 Draft Tube
+100,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.2 Propeller/Kaplan Turbine,4.1.1.2.10 Main Shaft,5,4.1.1.2.10,4.1.1.2.10 Main Shaft
+101,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.2 Propeller/Kaplan Turbine,4.1.1.2.11 Head Cover,5,4.1.1.2.11,4.1.1.2.11 Head Cover
+102,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.2 Propeller/Kaplan Turbine,4.1.1.2.12 Guide Bearing,5,4.1.1.2.12,4.1.1.2.12 Guide Bearing
+103,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.2 Propeller/Kaplan Turbine,4.1.1.2.13 Mechanical Sealing,5,4.1.1.2.13,4.1.1.2.13 Mechanical Sealing
+104,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.3 Pelton Turbine,#N/A,4,4.1.1.3,4.1.1.3 Pelton Turbine
+105,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.3 Pelton Turbine,4.1.1.3.1 Distributor/Manifold Pipe,5,4.1.1.3.1,4.1.1.3.1 Distributor/Manifold Pipe
+106,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.3 Pelton Turbine,4.1.1.3.2 Nozzles,5,4.1.1.3.2,4.1.1.3.2 Nozzles
+107,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.3 Pelton Turbine,4.1.1.3.3 Needle Valves,5,4.1.1.3.3,4.1.1.3.3 Needle Valves
+108,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.3 Pelton Turbine,4.1.1.3.4 Runner,5,4.1.1.3.4,4.1.1.3.4 Runner
+109,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.3 Pelton Turbine,4.1.1.3.5 Buckets,5,4.1.1.3.5,4.1.1.3.5 Buckets
+110,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.3 Pelton Turbine,4.1.1.3.6 Housing /Pit,5,4.1.1.3.6,4.1.1.3.6 Housing /Pit
+111,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.3 Pelton Turbine,4.1.1.3.7 Discharge Chamber,5,4.1.1.3.7,4.1.1.3.7 Discharge Chamber
+112,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.3 Pelton Turbine,4.1.1.3.8 Deflectors,5,4.1.1.3.8,4.1.1.3.8 Deflectors
+113,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.1 Turbine,4.1.1.3 Pelton Turbine,4.1.1.3.9 Main Shaft,5,4.1.1.3.9,4.1.1.3.9 Main Shaft
+114,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.2 Governor,#N/A,#N/A,3,4.1.2,4.1.2 Governor
+115,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.2 Governor,4.1.2.1 Speed Sensing Devices,#N/A,4,4.1.2.1,4.1.2.1 Speed Sensing Devices
+116,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.2 Governor,4.1.2.2 Control Devices,#N/A,4,4.1.2.2,4.1.2.2 Control Devices
+117,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.2 Governor,4.1.2.3 Power Amplification element (Servomotor),#N/A,4,4.1.2.3,4.1.2.3 Power Amplification element (Servomotor)
+118,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.3 Generator,#N/A,#N/A,3,4.1.3,4.1.3 Generator
+119,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.3 Generator,4.1.3.1 Stator,#N/A,4,4.1.3.1,4.1.3.1 Stator
+120,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.3 Generator,4.1.3.2 Rotor,#N/A,4,4.1.3.2,4.1.3.2 Rotor
+121,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.3 Generator,4.1.3.3 Generator Shaft,#N/A,4,4.1.3.3,4.1.3.3 Generator Shaft
+122,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.3 Generator,4.1.3.4 Thrust Bearing,#N/A,4,4.1.3.4,4.1.3.4 Thrust Bearing
+123,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.3 Generator,4.1.3.5 Guide Bearings,#N/A,4,4.1.3.5,4.1.3.5 Guide Bearings
+124,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.3 Generator,4.1.3.6 Ventilation & Cooling system,#N/A,4,4.1.3.6,4.1.3.6 Ventilation & Cooling system
+125,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.3 Generator,4.1.3.7 Brakes and Jacks,#N/A,4,4.1.3.7,4.1.3.7 Brakes and Jacks
+126,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.4 Exciter,#N/A,#N/A,3,4.1.4,4.1.4 Exciter
+127,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.4 Exciter,4.1.4.1 Low Voltage control and electronics,#N/A,4,4.1.4.1,4.1.4.1 Low Voltage control and electronics
+128,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.4 Exciter,4.1.4.2 Excitation system supply transformer,#N/A,4,4.1.4.2,4.1.4.2 Excitation system supply transformer
+129,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.4 Exciter,4.1.4.3 Rotating Exciter,#N/A,4,4.1.4.3,4.1.4.3 Rotating Exciter
+130,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.4 Exciter,4.1.4.4 Power Bridge,#N/A,4,4.1.4.4,4.1.4.4 Power Bridge
+131,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.4 Exciter,4.1.4.5 Supply Breaker,#N/A,4,4.1.4.5,4.1.4.5 Supply Breaker
+132,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.4 Exciter,4.1.4.6 Field Breaker,#N/A,4,4.1.4.6,4.1.4.6 Field Breaker
+133,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.5 Transformer,#N/A,#N/A,3,4.1.5,4.1.5 Transformer
+134,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.5 Transformer,4.1.5.1 Containment/Main Tank,#N/A,4,4.1.5.1,4.1.5.1 Containment/Main Tank
+135,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.5 Transformer,4.1.5.2 Cooling System,#N/A,4,4.1.5.2,4.1.5.2 Cooling System
+136,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.5 Transformer,4.1.5.3 De-energized Tap Changer (DETC),#N/A,4,4.1.5.3,4.1.5.3 De-energized Tap Changer (DETC)
+137,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.5 Transformer,4.1.5.4 Load Tap Changer (LTC),#N/A,4,4.1.5.4,4.1.5.4 Load Tap Changer (LTC)
+138,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.5 Transformer,4.1.5.5 Fire Suppression System,#N/A,4,4.1.5.5,4.1.5.5 Fire Suppression System
+139,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.5 Transformer,4.1.5.6 Oil Preservation System,#N/A,4,4.1.5.6,4.1.5.6 Oil Preservation System
+140,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.5 Transformer,4.1.5.7 Bushings/Insulators,#N/A,4,4.1.5.7,4.1.5.7 Bushings/Insulators
+141,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.5 Transformer,4.1.5.8 Springer System,#N/A,4,4.1.5.8,4.1.5.8 Springer System
+142,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.5 Transformer,4.1.5.9 BUS & structures,#N/A,4,4.1.5.9,4.1.5.9 BUS & structures
+143,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.5 Transformer,4.1.5.10 Control cabinet,#N/A,4,4.1.5.10,4.1.5.10 Control cabinet
+144,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.5 Transformer,4.1.5.11 Indicators & Monitors,#N/A,4,4.1.5.11,4.1.5.11 Indicators & Monitors
+145,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.6 Circuit Breakers,#N/A,#N/A,3,4.1.6,4.1.6 Circuit Breakers
+146,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.6 Circuit Breakers,4.1.6.1 Air Magnetic/Air Blast Circuit Breakers,#N/A,4,4.1.6.1,4.1.6.1 Air Magnetic/Air Blast Circuit Breakers
+147,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.6 Circuit Breakers,4.1.6.2 Oil Tank Circuit Breakers,#N/A,4,4.1.6.2,4.1.6.2 Oil Tank Circuit Breakers
+148,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.6 Circuit Breakers,4.1.6.3 SF6 Circuit Breakers,#N/A,4,4.1.6.3,4.1.6.3 SF6 Circuit Breakers
+149,Hydropower Facility,4. Powerhouse,4.1 Power Train Equipment,4.1.6 Circuit Breakers,4.1.6.4 Vacuum Circuit Breakers,#N/A,4,4.1.6.4,4.1.6.4 Vacuum Circuit Breakers
+150,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,#N/A,#N/A,#N/A,2,4.2,4.2 Balance of Plant/Auxiliary Components
+151,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,#N/A,#N/A,3,4.2.1,4.2.1 Instruments & Controls
+152,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.1 Bench/Common Relay Boards,#N/A,4,4.2.1.1,4.2.1.1 Bench/Common Relay Boards
+153,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.2 Annunciators,#N/A,4,4.2.1.2,4.2.1.2 Annunciators
+154,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.3 Sequential Event Recorder,#N/A,4,4.2.1.3,4.2.1.3 Sequential Event Recorder
+155,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.4 Protective Relays,#N/A,4,4.2.1.4,4.2.1.4 Protective Relays
+156,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,"4.2.1.5 SCADA (PLC, UPS, Telemetry)",#N/A,4,4.2.1.5,"4.2.1.5 SCADA (PLC, UPS, Telemetry)"
+157,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.6 AGC,#N/A,4,4.2.1.6,4.2.1.6 AGC
+158,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.7 Generator Monitoring,#N/A,4,4.2.1.7,4.2.1.7 Generator Monitoring
+159,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.7 Generator Monitoring,4.2.1.7.1 Volt meter,5,4.2.1.7.1,4.2.1.7.1 Volt meter
+160,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.7 Generator Monitoring,4.2.1.7.2 Am meter,5,4.2.1.7.2,4.2.1.7.2 Am meter
+161,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.7 Generator Monitoring,4.2.1.7.3 MW meter,5,4.2.1.7.3,4.2.1.7.3 MW meter
+162,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.7 Generator Monitoring,4.2.1.7.4 RVA meter,5,4.2.1.7.4,4.2.1.7.4 RVA meter
+163,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.7 Generator Monitoring,4.2.1.7.5 Field Volt meter,5,4.2.1.7.5,4.2.1.7.5 Field Volt meter
+164,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.7 Generator Monitoring,4.2.1.7.6 Field Am meter,5,4.2.1.7.6,4.2.1.7.6 Field Am meter
+165,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.8 Voltage Adjustment,#N/A,4,4.2.1.8,4.2.1.8 Voltage Adjustment
+166,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.8 Voltage Adjustment,4.2.1.8.1 Voltage set point,5,4.2.1.8.1,4.2.1.8.1 Voltage set point
+167,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.8 Voltage Adjustment,4.2.1.8.2 Voltage raise,5,4.2.1.8.2,4.2.1.8.2 Voltage raise
+168,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.8 Voltage Adjustment,4.2.1.8.3 Voltage lower,5,4.2.1.8.3,4.2.1.8.3 Voltage lower
+169,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.9 Gate Position/Speed Adjustment,#N/A,4,4.2.1.9,4.2.1.9 Gate Position/Speed Adjustment
+170,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.9 Gate Position/Speed Adjustment,4.2.1.9.1 Gate Position/Speed Indication,5,4.2.1.9.1,4.2.1.9.1 Gate Position/Speed Indication
+171,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.9 Gate Position/Speed Adjustment,4.2.1.9.2 Gate Position/Speed Raise,5,4.2.1.9.2,4.2.1.9.2 Gate Position/Speed Raise
+172,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.9 Gate Position/Speed Adjustment,4.2.1.9.3 Gate Position/Speed Lower,5,4.2.1.9.3,4.2.1.9.3 Gate Position/Speed Lower
+173,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.10 Blade Tilt Indication (for Kaplan Turbines),#N/A,4,4.2.1.10,4.2.1.10 Blade Tilt Indication (for Kaplan Turbines)
+174,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.11 Headwater elevation,#N/A,4,4.2.1.11,4.2.1.11 Headwater elevation
+175,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.12 Tailwater elevation,#N/A,4,4.2.1.12,4.2.1.12 Tailwater elevation
+176,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.1 Instruments & Controls,4.2.1.13 Turbine Flow,#N/A,4,4.2.1.13,4.2.1.13 Turbine Flow
+177,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.2 Powerhouse Crane,#N/A,#N/A,3,4.2.2,4.2.2 Powerhouse Crane
+178,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.3 Station Power System,#N/A,#N/A,3,4.2.3,4.2.3 Station Power System
+179,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.3 Station Power System,4.2.3.1 480 V system,#N/A,4,4.2.3.1,4.2.3.1 480 V system
+180,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.3 Station Power System,4.2.3.2 DC & preferred AC system (Plant Battery),#N/A,4,4.2.3.2,4.2.3.2 DC & preferred AC system (Plant Battery)
+181,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.4 Compressed Air System,#N/A,#N/A,3,4.2.4,4.2.4 Compressed Air System
+182,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.4 Compressed Air System,4.2.4.1 Compressors,#N/A,4,4.2.4.1,4.2.4.1 Compressors
+183,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.4 Compressed Air System,4.2.4.2 Air Dryers,#N/A,4,4.2.4.2,4.2.4.2 Air Dryers
+184,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.4 Compressed Air System,4.2.4.3 Air Tanks,#N/A,4,4.2.4.3,4.2.4.3 Air Tanks
+185,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.4 Compressed Air System,4.2.4.4 Control Panels,#N/A,4,4.2.4.4,4.2.4.4 Control Panels
+186,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.4 Compressed Air System,4.2.4.5 Piping,#N/A,4,4.2.4.5,4.2.4.5 Piping
+187,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.5 Raw Water (Cooling) System,#N/A,#N/A,3,4.2.5,4.2.5 Raw Water (Cooling) System
+188,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.5 Raw Water (Cooling) System,4.2.5.1 Valves,#N/A,4,4.2.5.1,4.2.5.1 Valves
+189,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.5 Raw Water (Cooling) System,4.2.5.2 Pumps,#N/A,4,4.2.5.2,4.2.5.2 Pumps
+190,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.5 Raw Water (Cooling) System,4.2.5.3 Strainers,#N/A,4,4.2.5.3,4.2.5.3 Strainers
+191,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.5 Raw Water (Cooling) System,4.2.5.4 Supply Intake,#N/A,4,4.2.5.4,4.2.5.4 Supply Intake
+192,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.5 Raw Water (Cooling) System,4.2.5.5Coolers,#N/A,4,4.2.5.5,4.2.5.5Coolers
+193,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.5 Raw Water (Cooling) System,4.2.5.6 Piping,#N/A,4,4.2.5.6,4.2.5.6 Piping
+194,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.5 Raw Water (Cooling) System,4.2.5.7 Indicators & Monitors,#N/A,4,4.2.5.7,4.2.5.7 Indicators & Monitors
+195,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.6 Lubrication System,#N/A,#N/A,3,4.2.6,4.2.6 Lubrication System
+196,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.6 Lubrication System,4.2.6.1 Lubrication Oil System,#N/A,4,4.2.6.1,4.2.6.1 Lubrication Oil System
+197,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.6 Lubrication System,4.2.6.1 Lubrication Oil System,4.2.6.1.1 Filters,5,4.2.6.1.1,4.2.6.1.1 Filters
+198,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.6 Lubrication System,4.2.6.1 Lubrication Oil System,4.2.6.1.2 Inline Filtration,5,4.2.6.1.2,4.2.6.1.2 Inline Filtration
+199,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.6 Lubrication System,4.2.6.1 Lubrication Oil System,4.2.6.1.3 Oil Pumps,5,4.2.6.1.3,4.2.6.1.3 Oil Pumps
+200,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.6 Lubrication System,4.2.6.1 Lubrication Oil System,4.2.6.1.4 Valves,5,4.2.6.1.4,4.2.6.1.4 Valves
+201,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.6 Lubrication System,4.2.6.1 Lubrication Oil System,4.2.6.1.5 Tanks,5,4.2.6.1.5,4.2.6.1.5 Tanks
+202,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.6 Lubrication System,4.2.6.1 Lubrication Oil System,4.2.6.1.6 Piping,5,4.2.6.1.6,4.2.6.1.6 Piping
+203,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.6 Lubrication System,4.2.6.1 Lubrication Oil System,4.2.6.1.7 Governor,5,4.2.6.1.7,4.2.6.1.7 Governor
+204,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.6 Lubrication System,4.2.6.1 Lubrication Oil System,4.2.6.1.8 Heat Exchangers,5,4.2.6.1.8,4.2.6.1.8 Heat Exchangers
+205,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.6 Lubrication System,4.2.6.1 Lubrication Oil System,4.2.6.1.9 Air Vent,5,4.2.6.1.9,4.2.6.1.9 Air Vent
+206,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.6 Lubrication System,4.2.6.1 Lubrication Oil System,4.2.6.1.10 Instrumentation and Protection,5,4.2.6.1.10,4.2.6.1.10 Instrumentation and Protection
+207,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.6 Lubrication System,4.2.6.2 Water Lubrication of Turbine main guide bearing,#N/A,4,4.2.6.2,4.2.6.2 Water Lubrication of Turbine main guide bearing
+208,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.7 Drainage & Dewatering System,#N/A,#N/A,3,4.2.7,4.2.7 Drainage & Dewatering System
+209,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.8 Fire Protection,#N/A,#N/A,3,4.2.8,4.2.8 Fire Protection
+210,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.9 Potable Water System,#N/A,#N/A,3,4.2.9,4.2.9 Potable Water System
+211,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.10 Drainage and Dewatering System,#N/A,#N/A,3,4.2.10,4.2.10 Drainage and Dewatering System
+212,Hydropower Facility,4. Powerhouse,4.2 Balance of Plant/Auxiliary Components,4.2.11 HVAC,#N/A,#N/A,3,4.2.11,4.2.11 HVAC
+213,Hydropower Facility,4. Powerhouse,4.3 Powerhouse Structures,#N/A,#N/A,#N/A,2,2.3,4.3 Powerhouse Structures
+214,Hydropower Facility,5. Tail water,#N/A,#N/A,#N/A,#N/A,1,5,5. Tail water
+215,Hydropower Facility,5. Tail water,5.1 Aeration Weirs,#N/A,#N/A,#N/A,2,5.1,5.1 Aeration Weirs
+216,Hydropower Facility,5. Tail water,5.1 Aeration Weirs,5.1.1 Labyrinth Weirs,#N/A,#N/A,3,5.1.1,5.1.1 Labyrinth Weirs
+217,Hydropower Facility,5. Tail water,5.1 Aeration Weirs,5.1.2 Infuser Weirs,#N/A,#N/A,3,5.1.2,5.1.2 Infuser Weirs
+218,Hydropower Facility,6. Switch Yard,#N/A,#N/A,#N/A,#N/A,1,6,6. Switch Yard
+219,Hydropower Facility,6. Switch Yard,6.1 Surge Arresters,#N/A,#N/A,#N/A,2,6.1,6.1 Surge Arresters
+220,Hydropower Facility,6. Switch Yard,6.2 Cable Tunnel/Line Duct,#N/A,#N/A,#N/A,2,6.2,6.2 Cable Tunnel/Line Duct
+221,Hydropower Facility,6. Switch Yard,6.3 High-voltage Bus,#N/A,#N/A,#N/A,2,6.3,6.3 High-voltage Bus
+222,Hydropower Facility,6. Switch Yard,6.4 Disconnect Switches,#N/A,#N/A,#N/A,2,6.4,6.4 Disconnect Switches
+223,Hydropower Facility,6. Switch Yard,6.5 Switch Yard Structures,#N/A,#N/A,#N/A,2,6.5,6.5 Switch Yard Structures
+224,Hydropower Facility,7. Navigation Locks,#N/A,#N/A,#N/A,#N/A,1,7,7. Navigation Locks
