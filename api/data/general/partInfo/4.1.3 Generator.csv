@@ -1,0 +1,112 @@
+﻿Facility,Unit,Heading,Attribute,Data,Units
+Conventional,1,General Information,Type,Vertical-Shaft,
+Conventional,1,General Information,Manufacturer,Manufacturer #1,
+Conventional,1,General Information,Excitation Type,Solid State,
+Conventional,1,Operational Characteristics,Rating (Generate Mode),"37,200",kVA
+Conventional,1,Operational Characteristics,Rating (Generate Mode),"33,480",kW
+Conventional,1,Operational Characteristics,Rating (Pump Mode),N/A,kVA
+Conventional,1,Operational Characteristics,Voltage - Stator,"13,800",Volts
+Conventional,1,Operational Characteristics,Current - Stator (Gen. Mode),1556,Amperes
+Conventional,1,Operational Characteristics,Current - Stator (Pump Mode),N/A,Amperes
+Conventional,1,Operational Characteristics,Power Factor,0.9,
+Conventional,1,Operational Characteristics,Temperature Rise,60,Degrees C
+Conventional,1,Operational Characteristics,Phases,3,
+Conventional,1,Operational Characteristics,Speed,94.7,RPM
+Conventional,1,Operational Characteristics,Exciter Current,880,Amperes
+Conventional,1,Operational Characteristics,Exciter Voltage,250,Volts
+Conventional,2,General Information,Type,Vertical-Shaft,
+Conventional,2,General Information,Manufacturer,Manufacturer #1,
+Conventional,2,General Information,Excitation Type,Solid State,
+Conventional,2,Operational Characteristics,Rating (Generate Mode),"42,500",kVA
+Conventional,2,Operational Characteristics,Rating (Generate Mode),"34,650",kW
+Conventional,2,Operational Characteristics,Rating (Pump Mode),N/A,kVA
+Conventional,2,Operational Characteristics,Voltage - Stator,"13,800",Volts
+Conventional,2,Operational Characteristics,Current - Stator (Gen. Mode),1611,Amperes
+Conventional,2,Operational Characteristics,Current - Stator (Pump Mode),N/A,Amperes
+Conventional,2,Operational Characteristics,Power Factor,0.9,
+Conventional,2,Operational Characteristics,Temperature Rise,60,Degrees C
+Conventional,2,Operational Characteristics,Phases,3,
+Conventional,2,Operational Characteristics,Speed,94.7,RPM
+Conventional,2,Operational Characteristics,Exciter Current,880,Amperes
+Conventional,2,Operational Characteristics,Exciter Voltage,250,Volts
+Conventional,3,General Information,Type,Vertical-Shaft,
+Conventional,3,General Information,Manufacturer,Manufacturer #1,
+Conventional,3,General Information,Excitation Type,Solid State,
+Conventional,3,Operational Characteristics,Rating (Generate Mode),"38,500",kVA
+Conventional,3,Operational Characteristics,Rating (Generate Mode),"36,000",kW
+Conventional,3,Operational Characteristics,Rating (Pump Mode),N/A,kVA
+Conventional,3,Operational Characteristics,Voltage - Stator,"13,800",Volts
+Conventional,3,Operational Characteristics,Current - Stator (Gen. Mode),1400,Amperes
+Conventional,3,Operational Characteristics,Current - Stator (Pump Mode),N/A,Amperes
+Conventional,3,Operational Characteristics,Power Factor,0.9,
+Conventional,3,Operational Characteristics,Temperature Rise,60,Degrees C
+Conventional,3,Operational Characteristics,Phases,3,
+Conventional,3,Operational Characteristics,Speed,250,RPM
+Conventional,3,Operational Characteristics,Exciter Current,1900,Amperes
+Conventional,3,Operational Characteristics,Exciter Voltage,220,Volts
+Conventional,4,General Information,Type,Vertical-Shaft,
+Conventional,4,General Information,Manufacturer,Manufacturer #1,
+Conventional,4,General Information,Excitation Type,Solid State,
+Conventional,4,Operational Characteristics,Rating (Generate Mode),"46,000",kVA
+Conventional,4,Operational Characteristics,Rating (Generate Mode),"33,200",kW
+Conventional,4,Operational Characteristics,Rating (Pump Mode),N/A,kVA
+Conventional,4,Operational Characteristics,Voltage - Stator,"17,200",Volts
+Conventional,4,Operational Characteristics,Current - Stator (Gen. Mode),1496,Amperes
+Conventional,4,Operational Characteristics,Current - Stator (Pump Mode),N/A,Amperes
+Conventional,4,Operational Characteristics,Power Factor,0.9,
+Conventional,4,Operational Characteristics,Temperature Rise,60,Degrees C
+Conventional,4,Operational Characteristics,Phases,3,
+Conventional,4,Operational Characteristics,Speed,215,RPM
+Conventional,4,Operational Characteristics,Exciter Current,2000,Amperes
+Conventional,4,Operational Characteristics,Exciter Voltage,220,Volts
+Conventional,plant,General Information,Type,Vertical-Shaft,
+Conventional,plant,General Information,Manufacturer,Manufacturer #1,
+Conventional,plant,General Information,Excitation Type,Solid State,
+PumpStorage,1,General Information,Type,Vertical-Shaft,
+PumpStorage,1,General Information,Manufacturer,Manufacturer #2,
+PumpStorage,1,General Information,Excitation Type,Solid State,
+PumpStorage,1,Operational Characteristics,Rating (Generate Mode),300000,kVA
+PumpStorage,1,Operational Characteristics,Rating (Generate Mode),300000,kW
+PumpStorage,1,Operational Characteristics,Rating (Pump Mode),200000,kVA
+PumpStorage,1,Operational Characteristics,Voltage - Stator,11700,Volts
+PumpStorage,1,Operational Characteristics,Current - Stator (Gen. Mode),9350,Amperes
+PumpStorage,1,Operational Characteristics,Current - Stator (Pump Mode),9000,Amperes
+PumpStorage,1,Operational Characteristics,Power Factor,0.9,
+PumpStorage,1,Operational Characteristics,Temperature Rise,60,Degrees C
+PumpStorage,1,Operational Characteristics,Phases,4,
+PumpStorage,1,Operational Characteristics,Speed,150,RPM
+PumpStorage,1,Operational Characteristics,Exciter Current,1700,Amperes
+PumpStorage,1,Operational Characteristics,Exciter Voltage,180,Volts
+PumpStorage,2,General Information,Type,Vertical-Shaft,
+PumpStorage,2,General Information,Manufacturer,Manufacturer #2,
+PumpStorage,2,General Information,Excitation Type,Solid State,
+PumpStorage,2,Operational Characteristics,Rating (Generate Mode),300000,kVA
+PumpStorage,2,Operational Characteristics,Rating (Generate Mode),300000,kW
+PumpStorage,2,Operational Characteristics,Rating (Pump Mode),200000,kVA
+PumpStorage,2,Operational Characteristics,Voltage - Stator,11700,Volts
+PumpStorage,2,Operational Characteristics,Current - Stator (Gen. Mode),9350,Amperes
+PumpStorage,2,Operational Characteristics,Current - Stator (Pump Mode),9000,Amperes
+PumpStorage,2,Operational Characteristics,Power Factor,0.9,
+PumpStorage,2,Operational Characteristics,Temperature Rise,60,Degrees C
+PumpStorage,2,Operational Characteristics,Phases,4,
+PumpStorage,2,Operational Characteristics,Speed,150,RPM
+PumpStorage,2,Operational Characteristics,Exciter Current,1700,Amperes
+PumpStorage,2,Operational Characteristics,Exciter Voltage,180,Volts
+PumpStorage,3,General Information,Type,Vertical-Shaft,
+PumpStorage,3,General Information,Manufacturer,Manufacturer #2,
+PumpStorage,3,General Information,Excitation Type,Solid State,
+PumpStorage,3,Operational Characteristics,Rating (Generate Mode),300000,kVA
+PumpStorage,3,Operational Characteristics,Rating (Generate Mode),300000,kW
+PumpStorage,3,Operational Characteristics,Rating (Pump Mode),200000,kVA
+PumpStorage,3,Operational Characteristics,Voltage - Stator,11700,Volts
+PumpStorage,3,Operational Characteristics,Current - Stator (Gen. Mode),9350,Amperes
+PumpStorage,3,Operational Characteristics,Current - Stator (Pump Mode),9000,Amperes
+PumpStorage,3,Operational Characteristics,Power Factor,0.9,
+PumpStorage,3,Operational Characteristics,Temperature Rise,60,Degrees C
+PumpStorage,3,Operational Characteristics,Phases,4,
+PumpStorage,3,Operational Characteristics,Speed,150,RPM
+PumpStorage,3,Operational Characteristics,Exciter Current,1700,Amperes
+PumpStorage,3,Operational Characteristics,Exciter Voltage,180,Volts
+PumpStorage,plant,General Information,Type,Vertical-Shaft,
+PumpStorage,plant,General Information,Manufacturer,Manufacturer #2,
+PumpStorage,plant,General Information,Excitation Type,Solid State,

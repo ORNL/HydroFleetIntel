@@ -38,11 +38,12 @@ yarn-error.log*
 **/__pycache__
 
 #data
-/api/data/general/FacilitiesList.csv
 /api/data/general/DataCatalog*
 /api/data/general/partInfo/*
 /api/data/powertrain/generator/assetMileage/*
 /api/data/powertrain/generator/gads/*
 /api/data/powertrain/generator/maintenance/*
 /api/data/powertrain/generator/timeseries/*
+!/api/data/general/FacilitiesList.csv
+!/api/data/general/partInfo/4.1.3 Generator.csv
 
